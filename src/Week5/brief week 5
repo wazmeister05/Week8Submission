@@ -1,0 +1,6 @@
+Following on from your week 3 coursework, change your code so that it accepts an integer value as the
+number of cylinders that you want to calculate the volume of.
+For each cylinder generate random values for length and radius (suggest that you put some sensible limits on these values.
+As before it should print the following for each cylinder
+Cylinder Number 1 : Radius is 5.0 Height is 2.0 Color is red Base area is 78.53981633974483 Volume is 157.07963267948966
+Empirically evaluate your algorithm using input sizes of 10, 100, 1000, 10000 and draw a plot your results on a graph using MS Excel
