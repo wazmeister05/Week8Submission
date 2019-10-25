@@ -27,7 +27,7 @@ public class ManyCylinders extends Cylinder{
     public double rng(){
         double random = Math.random();
         random = random * 100;
-        System.out.println(random);
+        //System.out.println(random);
         return random;
     }
 
